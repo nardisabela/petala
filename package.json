@@ -1,6 +1,7 @@
 {
   "name": "palette-gen",
   "version": "0.1.0",
+  "homepage": "https://nardisabela.github.io/petala",
   "private": true,
   "scripts": {
     "dev": "next dev",
